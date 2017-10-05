@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/tekulvw/tekulvw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'll be creating and updating this website with semi interesting stuff as I come up with it. Hopefully this will turn into a bit of a resume and a bit of a blog as time goes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project List
+These projects are things I'm actively working on, take a look, contact me on Discord and feel free to ask about anything!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tekulvw/tekulvw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Red-DiscordBot](https://github.com/CogCreators/Red-DiscordBot) - A Python project that I joined really early on and have been working on since January of 2015. See my thoughts about the experience on [this page](RED.md).
