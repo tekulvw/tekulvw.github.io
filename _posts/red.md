@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Introduction to Red
+title: "Introduction to Red"
 category: projects
+date: 2019-03-01
+last_modified: 2019-03-01T13:31:00-05:00
+tags:
+ - python
+ - code
+ - computer science
 ---
 
 Test.
