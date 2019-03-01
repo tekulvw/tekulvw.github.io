@@ -54,7 +54,7 @@ sidebar_link: true
 
 ### Robotics, Leadership, and Teamwork
  - Team Leader of 2012-2015 FIRST Tech Challenge team #6133 *The NUTS!*
- - Placed 1^{st} in the Midwest, top 10 in the US
+ - Placed 1<sup>st</sup> in the Midwest, top 10 in the US
 
 ## Activities
 
