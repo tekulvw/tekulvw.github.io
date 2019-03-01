@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Co-op Experiences
+title: "Co-op Experiences"
 ----
