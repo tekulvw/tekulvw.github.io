@@ -43,4 +43,22 @@ sidebar_link: true
 
 ## Skills
 
+### Computer Programming
+ - Extensive work done with Python and Git source control
+ - Completed projects using a variety of other tools including SQL, C#, C++, Java, Google Cloud
+ - Familiar with Rockwell Automation's *FactoryTalk* and Inductive Automation's *Ignition* SCADA frameworks
+
+### Engineering
+ - 2 years' machine shop, CAD experience
+ - Strong interest in controls engineering and general automation software
+
+### Robotics, Leadership, and Teamwork
+ - Team Leader of 2012-2015 FIRST Tech Challenge team #6133 *The NUTS!*
+ - Placed 1^{st} in the Midwest, top 10 in the US
+
 ## Activities
+
+### FIRST Robotics Mentoring
+ - Worked with FTC teams across the nation to improve understanding of engineering and critical thinking
+ - Mentored Cincinnati, OH team #6133 and Reno, NV team #13112
+ - Started and coached Greenville, NC team #13735
