@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Projects
+category: projects
 ---
 
 Over the course of my career I have worked on a number of projects, big and small.
