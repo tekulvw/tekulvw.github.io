@@ -2,7 +2,6 @@
 layout: post
 title: "Limnoria: Getting Started with Python"
 category: Projects
-last_modified: 2019-03-01T13:31:00-05:00
 tags:
  - python
  - code
