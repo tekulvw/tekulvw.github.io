@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'Test'
-url:              http://tekulvw.io
+url:              http://tekulvw.io/
 baseurl:          /
 
 author:
