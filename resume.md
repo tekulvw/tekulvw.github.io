@@ -4,6 +4,8 @@ title: Resume
 sidebar_link: true
 ---
 
+## Video going here
+
 ## Education
 
 ### Bachelor of Science -- Expected 2020 -- University of Cincinnati
