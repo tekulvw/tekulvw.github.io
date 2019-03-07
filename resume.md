@@ -6,6 +6,9 @@ sidebar_link: true
 
 ## Video going here
 
+## Objective
+Need to put career goals, aspirations here.
+
 ## Education
 
 ### Bachelor of Science -- Expected 2020 -- University of Cincinnati
