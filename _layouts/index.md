@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About
+layout: default
 ---
-
+Test
 Hello! I am Will Tekulve, a current undergraduate student at the University of Cincinnati double majoring in Electrical Engineering and Computer Science.
 Most of my life has been spent being involved in competitive robotics through the [FIRST robotics program](https://www.firstinspires.org/) where I have spent 5 years competing in FLL, 3 in FTC, and 5 years mentoring and coaching across the nation while traveling on co-op.
 These experiences have given me a deep interest in automation, in both pure software and more of a mix of soft and hardware like controls engineering.
