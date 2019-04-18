@@ -4,10 +4,11 @@ title: Resume
 sidebar_link: true
 ---
 
-## Video going here
-
-## Objective
-Need to put career goals, aspirations here.
+## Objective and Future Goals
+ - Work in hi-tech industries creating novel solutions
+ - Constantly improving, not maintaining
+ - Be challenged and have fun
+ - Learn new technologies throughout my career
 
 ## Education
 
