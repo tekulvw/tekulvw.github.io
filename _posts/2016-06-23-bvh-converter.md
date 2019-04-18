@@ -19,6 +19,6 @@ BVH is an interesting mathematical concept that keeps track of location data of 
 For our use case, we couldn't use BVH directly (as Maya couldn't interpret it) and had to convert the orientation data back to true location data in a 3D space.
 Surprisingly, there weren't a ton of open source converters available, and I ended up creating one based on an open source BVH viewer I'd found.
 
-Github: [https://github.com/tekulvw/bvh-converter](https://github.com/tekulvw/bvh-converter "Github Repo")
+Github: [https://github.com/tekulvw/bvh-converter](https://github.com/tekulvw/bvh-converter)
 
 PyPi: [https://pypi.org/project/bvh-converter/](https://pypi.org/project/bvh-converter/)
