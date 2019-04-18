@@ -1,6 +1,5 @@
 ---
 layout: index
-title: Home
 ---
 
 Hello! I am Will Tekulve, a current undergraduate student at the University of Cincinnati double majoring in Electrical Engineering and Computer Science.
